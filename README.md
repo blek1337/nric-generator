@@ -1,6 +1,6 @@
 # nric-generator
 Simple nric generator
-1 second 1k nric
+Generate 540k nric persecond
 
 
 > Command:
